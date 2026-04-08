@@ -47,7 +47,7 @@ A search engine dorking checklist built for bug bounty hunters. It organizes 65+
 
 ```bash
 # 1. Clone or download this repo
-git clone https://github.com/YOUR_USERNAME/recon-dork-checklist.git
+git clone https://github.com/Mostafa-Maklad/Recon-Dork-Checklist.git
 
 # 2. Open your browser's extension page
 #    Chrome:  chrome://extensions
